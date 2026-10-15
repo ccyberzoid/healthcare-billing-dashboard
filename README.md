@@ -2,7 +2,7 @@
 
 A Power BI dashboard that gives hospital administrators one place to track billing, patient volume, and care efficiency across multiple facilities.
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-10-01 175518.png)
 
 ## Business Question
 Where does billing concentrate across hospitals, admission types, and age groups, and how efficiently are patients moving through care?
